@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordJuuBot", "DiscordJuuBot\DiscordJuuBot.csproj", "{D76348D8-1631-4743-993D-0475D9E365FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76348D8-1631-4743-993D-0475D9E365FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76348D8-1631-4743-993D-0475D9E365FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76348D8-1631-4743-993D-0475D9E365FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76348D8-1631-4743-993D-0475D9E365FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C363E39A-79BC-46FB-9BBC-724C609CB909}
+	EndGlobalSection
+EndGlobal
